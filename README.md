@@ -1,10 +1,11 @@
 # Prueba Tecnica Ingertec - API
-![Node.js](https://shields.io/badge/BackEnd-Node.js-violet?logo=node.js&style=plastic)
-![Express](https://shields.io/badge/BackEnd-Express-violet?logo=express&style=plastic)
+![Node.js](https://shields.io/badge/BackEnd-Node.js-orange?logo=node.js&style=plastic)
+![Express](https://shields.io/badge/BackEnd-Express-orange?logo=express&style=plastic)
+![Heroku](https://custom-icon-badges.herokuapp.com/badge/status-deployed-violet.svg?logo=heroku-logo)
 
 Servidor para proveer archivos estáticos para ser utilizado en la prueba tecnica Ingertec.
 
-## Instrucciones
+## Instrucciones para ejecutar el servidor de manera local:
 `NOTA:` Se requiere de las siguientes versiones de **NODE** y **NPM** para poder ejecutar el servidor:
  * __Node__: 12.18.3 or higher
  * __NPM__: 6.14.16 or higher
