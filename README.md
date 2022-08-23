@@ -21,7 +21,7 @@ API_PORT=3001
 API_HOST=localhost
 CORS=http://localhost:3000
 ```
-* __API_HOST__: Puede modificarse el puerto a gusto.
+* __API_PORT__: Puede modificarse el puerto a gusto.
 * __CORST__: La ruta donde se alojara el cliente.
 
 Para finalizar, iniciar el servidor.
