@@ -17,11 +17,11 @@ npm install
 Crear en el directoria raiz el archivo `.env` con el siguiente formato:
  ```bash
 NODE_ENV=development
-API_PORT=3001
+PORT=3001
 API_HOST=localhost
 CORS=http://localhost:3000
 ```
-* __API_PORT__: Puede modificarse el puerto a gusto.
+* __PORT__: Puede modificarse el puerto a gusto.
 * __CORST__: La ruta donde se alojara el cliente.
 
 Para finalizar, iniciar el servidor.
